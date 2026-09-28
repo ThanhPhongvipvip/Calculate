@@ -7,8 +7,8 @@
 #include "advance_calc/sqrt/sqrt_op.h"
 
 int main() {
-    double a = 10.0;
-    double b = 5.0;
+    double a = 8;
+    double b = 6;
 
     std::cout << "a = " << a << ", b = " << b << std::endl;
     std::cout << "a + b = " << add(a, b) << std::endl;
