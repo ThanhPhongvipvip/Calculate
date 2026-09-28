@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdivide.a CMakeFiles/divide.dir/divide.cpp.o
+/usr/bin/ranlib libdivide.a

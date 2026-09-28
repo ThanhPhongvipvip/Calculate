@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/demoProj.dir/main.cpp.o -o demoProj  basic_calc/add/libadd.a basic_calc/subtract/libsubtract.a basic_calc/multiply/libmultiply.a basic_calc/divide/libdivide.a advance_calc/power/libpower.a advance_calc/sqrt/libsqrt.a 
